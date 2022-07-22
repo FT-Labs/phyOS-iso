@@ -1,11 +1,20 @@
-<p align="center">
-  <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-plymouth-base-theme/master/usr/share/plymouth/themes/phyOS/logo.png" height="128" width="128" alt="phyOS"></a>
+
 </p>
+
+<p align="center">
+  <a href="https://github.com/FT-Labs"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-plymouth-base-theme/master/usr/share/plymouth/themes/phyOS/logo.png" height="128" width="128" alt="phyOS"></a>
+</p>
+
+<p align="center">
+  <a href="https://patreon.com/phyOS"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DphyOS%26type%3Dpatrons&style=flat" alt="patreon"></a>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
   <img src="https://img.shields.io/github/downloads/FT-Labs/phyOS-iso/total?color=green">
 </p>
+
+
 
 <p align="center">
 Suckless tools based minimalist and functional distribution for aesthetics and simple usage based on <a href="https://www.archlinux.org">Arch Linux</a>.
