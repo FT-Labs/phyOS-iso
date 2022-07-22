@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
-  <img src="https://img.shields.io/github/downloads/FT-Labs/phyOS-iso/releases/total?label=downloads&logo=github&color=red&style=flat-square">
+  <img src="https://img.shields.io/github/downloads/FT-Labs/phyOS-iso/total?color=green">
 </p>
 
 <p align="center">
