@@ -36,7 +36,7 @@ Suckless tools based minimalist and functional distribution for aesthetics and s
 
 
 <p align="center">
-  <a href="https://github.com/FT-Labs/phyOS-iso/releases/tag/1.0.0-beta" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/FT-Labs/phyOS-iso"></a>
+  <a href="https://github.com/FT-Labs/phyOS-iso/releases/tag/1.0.1-beta" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/FT-Labs/phyOS-iso"></a>
 
 
 ### Verify the authenticity of the ISO
