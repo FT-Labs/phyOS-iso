@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://patreon.com/phyOS"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DphyOS%26type%3Dpatrons&style=flat" alt="Become a patreon for phyOS"></a>
-  <a href="https://ko-fi.com/phyos"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-dwm/screenshots/screenshots/kofi.jpg" alt="Donate for pHYOS on ko-fi"></a>&nbsp;
+  <a href="https://ko-fi.com/phyos"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-dwm/screenshots/screenshots/kofi.jpg" width="128" alt="Donate for pHYOS on ko-fi"></a>&nbsp;
 
 
 
