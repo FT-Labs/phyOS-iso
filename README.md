@@ -46,8 +46,8 @@ gpg --keyserver hkps://keys.gnupg.net --recv-keys 964FD85861C858D7
 gpg --keyserver hkps://keyserver.ubuntu.com --recv-keys 964FD85861C858D7
 gpg --keyserver hkp://pgp.mit.edu --recv-keys 964FD85861C858D7
 
-gpg --verify phyOS-2022.07.22-x86_64.iso.sig
-sha256sum -c phyOS-2022.07.22-x86_64.iso.sha256
+gpg --verify phyOS-2022.07.24-x86_64.iso.sig
+sha256sum -c phyOS-2022.07.24-x86_64.iso.sha256
 ```
 
 ### How to burn the iso
@@ -55,5 +55,5 @@ sha256sum -c phyOS-2022.07.22-x86_64.iso.sha256
 - You can use tools like rufus in windows, or dd for burning it from linux. Here is a basic example with dd:
 
 ```
-sudo dd bs=8M if=phyOS-2022.07.22-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress
+sudo dd bs=8M if=phyOS-2022.07.24-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress
 ```
