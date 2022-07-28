@@ -46,8 +46,8 @@ gpg --keyserver hkps://keys.gnupg.net --recv-keys 964FD85861C858D7
 gpg --keyserver hkps://keyserver.ubuntu.com --recv-keys 964FD85861C858D7
 gpg --keyserver hkp://pgp.mit.edu --recv-keys 964FD85861C858D7
 
-gpg --verify phyOS-2022.07.27-x86_64.iso.sig
-sha256sum -c phyOS-2022.07.27-x86_64.iso.sha256
+gpg --verify phyOS-2022.07.28-x86_64.iso.sig
+sha256sum -c phyOS-2022.07.28-x86_64.iso.sha256
 ```
 
 ### How to burn the iso
