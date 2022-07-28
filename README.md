@@ -54,9 +54,9 @@ sha256sum -c phyOS-2022.07.27-x86_64.iso.sha256
 
 - You can use following tools :
 
-| App                                    | Platform        | Instructions                                                                                                                                 |
-|----------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| [Rufus](http://rufus.ie)               | Windows         | Make sure to choose DD Image mode when prompted                                                                                              |
-| [Ether](https://www.balena.io/etcher/) | Cross platform  | -                                                                                                                                            |
-| [Ventoy](https://www.ventoy.net)       | Cross platform  | -                                                                                                                                            |
-| DD command                             | Linux & Mac ClI | sudo dd bs=8M if=phyOS-2022.07.27-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress |
+| App                                     | Platform        | Instructions                                                                                                                                 |
+|-----------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| [Rufus](http://rufus.ie)                | Windows         | Make sure to choose DD Image mode when prompted                                                                                              |
+| [Etcher](https://www.balena.io/etcher/) | Cross platform  | -                                                                                                                                            |
+| [Ventoy](https://www.ventoy.net)        | Cross platform  | -                                                                                                                                            |
+| DD command                              | Linux & Mac ClI | sudo dd bs=8M if=phyOS-2022.07.27-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress |
