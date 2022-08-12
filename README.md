@@ -9,8 +9,6 @@
   <a href="https://patreon.com/phyOS"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DphyOS%26type%3Dpatrons&style=flat" alt="Become a patreon for phyOS"></a>
   <a href="https://ko-fi.com/phyos"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-dwm/screenshots/screenshots/kofi.jpg" width="128" alt="Donate for pHYOS on ko-fi"></a>&nbsp;
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
   <a href="https://github.com/FT-Labs/phyOS-iso/releases"><img src="https://img.shields.io/github/downloads/FT-Labs/phyOS-iso/total?color=green">
@@ -21,6 +19,8 @@
 <p align="center">
 Suckless tools based minimalist and functional distribution for aesthetics and simple usage based on <a href="https://www.archlinux.org">Arch Linux</a>.
 </p>
+
+### PLEASE JOIN OUR DISCORD SERVER FOR GUIDES AND RECENT UPDATES. THERE IS ALSO A SUPPORT CHANNEL THERE.
 
 <p align="center">
   <a href="https://ftlabs.tech" target="_blank"><img alt="home" src="https://img.shields.io/badge/HOME-blue?style=flat-square"></a>
