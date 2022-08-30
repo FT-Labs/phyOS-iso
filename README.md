@@ -46,8 +46,8 @@ gpg --keyserver hkps://keys.gnupg.net --recv-keys 964FD85861C858D7
 gpg --keyserver hkps://keyserver.ubuntu.com --recv-keys 964FD85861C858D7
 gpg --keyserver hkp://pgp.mit.edu --recv-keys 964FD85861C858D7
 
-gpg --verify phyOS-2022.08.02-x86_64.iso.sig
-sha256sum -c phyOS-2022.08.02-x86_64.iso.sha256
+gpg --verify phyOS-2022.08.30-x86_64.iso.sig
+sha256sum -c phyOS-2022.08.30-x86_64.iso.sha256
 ```
 
 ### How to burn the iso
@@ -59,4 +59,4 @@ sha256sum -c phyOS-2022.08.02-x86_64.iso.sha256
 | [Rufus](http://rufus.ie)                | Windows         | Make sure to choose DD Image mode when prompted                                                                                              |
 | [Etcher](https://www.balena.io/etcher/) | Cross platform  | -                                                                                                                                            |
 | [Ventoy](https://www.ventoy.net)        | Cross platform  | -                                                                                                                                            |
-| DD command                              | Linux & Mac ClI | `sudo dd bs=8M if=phyOS-2022.08.02-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress` |
+| DD command                              | Linux & Mac ClI | `sudo dd bs=8M if=phyOS-2022.08.30-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress` |
