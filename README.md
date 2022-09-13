@@ -23,9 +23,9 @@ Suckless tools based minimalist and functional distribution for aesthetics and s
 ### PLEASE JOIN OUR DISCORD SERVER FOR GUIDES AND RECENT UPDATES. THERE IS ALSO A SUPPORT CHANNEL THERE.
 
 <p align="center">
-  <a href="https://ftlabs.tech" target="_blank"><img alt="home" src="https://img.shields.io/badge/HOME-blue?style=flat-square"></a>
-  <a href="https://wiki.ftlabs.tech" target="_blank"><img alt="wiki" src="https://img.shields.io/badge/WIKI-blue?style=flat-square"></a>
-  <a href="https://ftlabs.tech/gallery" target="_blank"><img alt="screenshots" src="https://img.shields.io/badge/SCREENSHOTS-blue?style=flat-square"></a>
+  <!-- <a href="https://ftlabs.tech" target="_blank"><img alt="home" src="https://img.shields.io/badge/HOME-blue?style=flat-square"></a> -->
+  <!-- <a href="https://wiki.ftlabs.tech" target="_blank"><img alt="wiki" src="https://img.shields.io/badge/WIKI-blue?style=flat-square"></a> -->
+  <!-- <a href="https://ftlabs.tech/gallery" target="_blank"><img alt="screenshots" src="https://img.shields.io/badge/SCREENSHOTS-blue?style=flat-square"></a> -->
   <a href="https://discord.gg/UHdZ4Pzve3" target="_blank"><img alt="discord" src="https://img.shields.io/badge/DISCORD-blue?style=flat-square"></a>
   <a href="https://t.me/+MNEvm6cv9xA3OWM0" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=flat-square"></a>
 </p>
@@ -37,6 +37,16 @@ Suckless tools based minimalist and functional distribution for aesthetics and s
 
 <p align="center">
   <a href="https://github.com/FT-Labs/phyOS-iso/releases/tag/1.1.0-beta" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/FT-Labs/phyOS-iso"></a>
+
+
+## PhyOS System Settings Application
+### Tweak your settings and customization, choose animations
+
+### Screenshots
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-1.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-2.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
 
 
 ### Verify the authenticity of the ISO
