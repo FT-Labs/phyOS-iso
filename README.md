@@ -48,6 +48,7 @@ First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
 ### Verify the authenticity of the ISO ###
+
 ```
 gpg --keyserver hkps://keys.gnupg.net --recv-keys 964FD85861C858D7
 gpg --keyserver hkps://keyserver.ubuntu.com --recv-keys 964FD85861C858D7
@@ -56,3 +57,14 @@ gpg --keyserver hkp://pgp.mit.edu --recv-keys 964FD85861C858D7
 gpg --verify phyOS-2022.10.12-x86_64.iso.sig
 sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 ```
+
+### How to burn the iso
+
+- You can use following tools :
+
+| App                                     | Platform        | Instructions                                                                                                                                 |
+|-----------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| [Rufus](http://rufus.ie)                | Windows         | Make sure to choose DD Image mode when prompted                                                                                              |
+| [Etcher](https://www.balena.io/etcher/) | Cross platform  | -                                                                                                                                            |
+| [Ventoy](https://www.ventoy.net)        | Cross platform  | -                                                                                                                                            |
+| DD command                              | Linux & Mac ClI | `sudo dd bs=8M if=phyOS-2022.10.12-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress` |
