@@ -17,7 +17,7 @@
 
 
 <p align="center">
-Suckless tools based minimalist and functional distribution for aesthetics and simple usage based on <a href="https://www.archlinux.org">Arch Linux</a>.
+<a href="https://suckless.org/">Suckless</a> tools based minimalist and functional distribution for aesthetics and simple usage based on <a href="https://www.archlinux.org">Arch Linux</a>.
 </p>
 <p align="center">
 First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks to unlock crypted root partition.
