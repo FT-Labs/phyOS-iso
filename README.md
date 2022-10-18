@@ -47,7 +47,7 @@ First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-2.png">
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
-### Verify the authenticity of the ISO ###
+<p align="center">### Verify the authenticity of the ISO ###</p>
 
 ```
 gpg --keyserver hkps://keys.gnupg.net --recv-keys 964FD85861C858D7
@@ -58,7 +58,7 @@ gpg --verify phyOS-2022.10.12-x86_64.iso.sig
 sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 ```
 
-### How to burn the iso
+<p align="center">### How to burn the iso ###</p>
 
 - You can use following tools :
 
