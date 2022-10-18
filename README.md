@@ -60,8 +60,6 @@ sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 
 <p align="center">### How to burn the iso ###</p>
 
-- You can use following tools :
-
 | App                                     | Platform        | Instructions                                                                                                                                 |
 |-----------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | [Rufus](http://rufus.ie)                | Windows         | Make sure to choose DD Image mode when prompted                                                                                              |
