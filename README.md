@@ -38,15 +38,6 @@ First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks
 <p align="center">
   <a href="https://github.com/FT-Labs/phyOS-iso/releases/tag/1.2.0-beta" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/FT-Labs/phyOS-iso"></a>
 
-
-## PhyOS System Settings Application
-### Tweak your settings and customization, choose animations
-
-### Screenshots
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-1.png">
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-2.png">
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
 <p align="center">### Verify the authenticity of the ISO ###</p>
 
 ```
@@ -66,3 +57,13 @@ sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 | [Etcher](https://www.balena.io/etcher/) | Cross platform  | -                                                                                                                                            |
 | [Ventoy](https://www.ventoy.net)        | Cross platform  | -                                                                                                                                            |
 | DD command                              | Linux & Mac ClI | `sudo dd bs=8M if=phyOS-2022.10.12-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress` |
+
+<p align="center">PhyOS System Settings Application</p>
+<p align="center">Tweak your settings and customization, choose animations</p>
+
+### <p align="center">Screenshots</p>
+<hr>
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-1.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-2.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
