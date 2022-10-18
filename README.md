@@ -17,13 +17,12 @@
 
 
 <p align="center">
-Suckless tools based minimalist and functional distribution for aesthetics and simple usage based on <a href="https://www.archlinux.org">Arch Linux</a>.
+<a href="https://suckless.org/">Suckless</a> tools based minimalist and functional distribution for aesthetics and simple usage based on <a href="https://www.archlinux.org">Arch Linux</a>.
 </p>
 <p align="center">
 First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks to unlock crypted root partition.
 </p>
-
-### PLEASE JOIN OUR DISCORD SERVER FOR GUIDES AND RECENT UPDATES. THERE IS ALSO A SUPPORT CHANNEL THERE.
+<p align="center">PLEASE JOIN OUR DISCORD SERVER FOR GUIDES AND RECENT UPDATES.</p>
 
 <p align="center">
   <!-- <a href="https://ftlabs.tech" target="_blank"><img alt="home" src="https://img.shields.io/badge/HOME-blue?style=flat-square"></a> -->
@@ -33,9 +32,7 @@ First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks
   <a href="https://t.me/+MNEvm6cv9xA3OWM0" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=flat-square"></a>
 </p>
 
-#
-
-### Latest Release
+<p align="center">### Latest Release ###</p>
 
 
 <p align="center">
@@ -50,9 +47,7 @@ First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-2.png">
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
-
-
-### Verify the authenticity of the ISO
+<p align="center">### Verify the authenticity of the ISO ###</p>
 
 ```
 gpg --keyserver hkps://keys.gnupg.net --recv-keys 964FD85861C858D7
@@ -63,9 +58,7 @@ gpg --verify phyOS-2022.10.12-x86_64.iso.sig
 sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 ```
 
-### How to burn the iso
-
-- You can use following tools :
+<p align="center">### How to burn the iso ###</p>
 
 | App                                     | Platform        | Instructions                                                                                                                                 |
 |-----------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
