@@ -22,7 +22,7 @@ Suckless tools based minimalist and functional distribution for aesthetics and s
 <p align="center">
 First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks to unlock crypted root partition.
 </p>
-<p align="center">**PLEASE JOIN OUR DISCORD SERVER FOR GUIDES AND RECENT UPDATES.**</p>
+**<p align="center">PLEASE JOIN OUR DISCORD SERVER FOR GUIDES AND RECENT UPDATES.</p>**
 
 <p align="center">
   <!-- <a href="https://ftlabs.tech" target="_blank"><img alt="home" src="https://img.shields.io/badge/HOME-blue?style=flat-square"></a> -->
