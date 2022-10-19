@@ -55,7 +55,7 @@ sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 ## <p align="center">Features</p>
 
 ### <p align="center">PhyOS System Settings Application</p>
-<p align="center">Tweak your settings and customization, choose animations. Look at the source code over here -> <a href="https://github.com/FT-Labs/pdwmc">pdwmc</a></p>
+<p align="center">Tweak your settings and customization, choose animations.</p>
 
 ## <p align="center">Screenshots</p>
 <hr>
