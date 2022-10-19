@@ -1,6 +1,3 @@
-
-</p>
-
 <p align="center">
   <a href="https://github.com/FT-Labs"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-plymouth-base-theme/master/usr/share/plymouth/themes/phyOS/logo.png" height="128" width="128" alt="phyOS"></a>
 </p>
@@ -10,8 +7,9 @@
   <a href="https://ko-fi.com/phyos"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-dwm/screenshots/screenshots/kofi.jpg" width="128" alt="Donate for pHYOS on ko-fi"></a>&nbsp;
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
-  <a href="https://github.com/FT-Labs/phyOS-iso/releases"><img src="https://img.shields.io/github/downloads/FT-Labs/phyOS-iso/total?color=green">
+  <a href="https://github.com/FT-Labs/phyOS-iso/releases"><img src="https://img.shields.io/github/downloads/FT-Labs/phyOS-iso/total?color=green"></img></a>
+  <a href="https://github.com/FT-Labs/phyOS-iso/releases"><img src="https://img.shields.io/github/commit-activity/w/FT-Labs/phyOS-iso"></img></a>
+  <a href="https://github.com/FT-Labs/phyOS-iso/releases" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/FT-Labs/phyOS-iso?color=%23ffa500"></a>
 </p>
 
 
@@ -31,12 +29,6 @@ First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks
   <a href="https://discord.gg/UHdZ4Pzve3" target="_blank"><img alt="discord" src="https://img.shields.io/badge/DISCORD-blue?style=flat-square"></a>
   <a href="https://t.me/+MNEvm6cv9xA3OWM0" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=flat-square"></a>
 </p>
-
-<p align="center">### Latest Release ###</p>
-
-
-<p align="center">
-  <a href="https://github.com/FT-Labs/phyOS-iso/releases/tag/1.2.0-beta" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/FT-Labs/phyOS-iso"></a>
 
 <p align="center">### Verify the authenticity of the ISO ###</p>
 
