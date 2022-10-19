@@ -1,8 +1,5 @@
-
-</p>
-
 <p align="center">
-  <a href="https://github.com/FT-Labs"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-plymouth-base-theme/master/usr/share/plymouth/themes/phyOS/logo.png" height="128" width="128" alt="phyOS"></a>
+  <a href="https://github.com/FT-Labs"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-plymouth-base-theme/master/usr/share/plymouth/themes/phyOS/logo.png" height="256" width="256" alt="phyOS"></a>
 </p>
 
 <p align="center">
@@ -10,11 +7,11 @@
   <a href="https://ko-fi.com/phyos"><img src="https://raw.githubusercontent.com/FT-Labs/phyOS-dwm/screenshots/screenshots/kofi.jpg" width="128" alt="Donate for pHYOS on ko-fi"></a>&nbsp;
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
-  <a href="https://github.com/FT-Labs/phyOS-iso/releases"><img src="https://img.shields.io/github/downloads/FT-Labs/phyOS-iso/total?color=green">
+  <a href="https://github.com/FT-Labs/phyOS-iso/releases" target="_blank"><img src="https://img.shields.io/github/downloads/FT-Labs/phyOS-iso/total?color=green"></img></a>
+  <a href="https://github.com/FT-Labs/phyOS-iso/commits/master" target="_blank"><img src="https://img.shields.io/github/commit-activity/w/FT-Labs/phyOS-iso"></img></a>
+  <a href="https://github.com/FT-Labs/phyOS-iso/releases" target="_blank"><img src="https://img.shields.io/github/v/release/FT-Labs/phyOS-iso?color=%23ffa500"></a>
+  <a href="https://github.com/FT-Labs/phyOS-iso/issues?q=is%3Aissue+is%3Aclosed" target="_blank"><img src="https://img.shields.io/github/issues-closed-raw/FT-Labs/phyOS-iso"></a>
 </p>
-
-
 
 <p align="center">
 <a href="https://suckless.org/">Suckless</a> tools based minimalist and functional distribution for aesthetics and simple usage based on <a href="https://www.archlinux.org">Arch Linux</a>.
@@ -22,6 +19,7 @@
 <p align="center">
 First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks to unlock crypted root partition.
 </p>
+<hr>
 <p align="center">PLEASE JOIN OUR DISCORD SERVER FOR GUIDES AND RECENT UPDATES.</p>
 
 <p align="center">
@@ -32,22 +30,7 @@ First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks
   <a href="https://t.me/+MNEvm6cv9xA3OWM0" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=flat-square"></a>
 </p>
 
-<p align="center">### Latest Release ###</p>
-
-
-<p align="center">
-  <a href="https://github.com/FT-Labs/phyOS-iso/releases/tag/1.2.0-beta" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/FT-Labs/phyOS-iso"></a>
-
-
-## PhyOS System Settings Application
-### Tweak your settings and customization, choose animations
-
-### Screenshots
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-1.png">
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-2.png">
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
-<p align="center">### Verify the authenticity of the ISO ###</p>
+## <p align="center">Verify the authenticity of the ISO</p>
 
 ```
 gpg --keyserver hkps://keys.gnupg.net --recv-keys 964FD85861C858D7
@@ -58,7 +41,7 @@ gpg --verify phyOS-2022.10.12-x86_64.iso.sig
 sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 ```
 
-<p align="center">### How to burn the iso ###</p>
+## <p align="center">How to burn the iso</p>
 
 | App                                     | Platform        | Instructions                                                                                                                                 |
 |-----------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -66,3 +49,17 @@ sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 | [Etcher](https://www.balena.io/etcher/) | Cross platform  | -                                                                                                                                            |
 | [Ventoy](https://www.ventoy.net)        | Cross platform  | -                                                                                                                                            |
 | DD command                              | Linux & Mac ClI | `sudo dd bs=8M if=phyOS-2022.10.12-x86_64.iso of=/dev/{sda,sdb 'check usb path with (sudo fdisk -l)'} conv=fsync oflag=direct status=progress` |
+
+<hr>
+
+## <p align="center">Features</p>
+
+### <p align="center">PhyOS System Settings Application</p>
+<p align="center">Tweak your settings and customization, choose animations.</p>
+
+## <p align="center">Screenshots</p>
+<hr>
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-1.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-2.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
+<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
