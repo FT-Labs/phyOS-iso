@@ -52,14 +52,19 @@ sha256sum -c phyOS-2022.10.12-x86_64.iso.sha256
 
 <hr>
 
-## <p align="center">Features</p>
+## <p align="center">Screenshots</p>
+
+### <p>Pdwmc Control Center - Change your keys, mouse buttons, colors easily!</p>
+<hr>
+
+<img src="https://github.com/FT-Labs/phyOS-iso/blob/images/pdwmc/pdwmc-1.png">
+<img src="https://github.com/FT-Labs/phyOS-iso/blob/images/pdwmc/pdwmc-2.png">
+<img src="https://github.com/FT-Labs/phyOS-iso/blob/images/pdwmc/pdwmc-3.png">
+<img src="https://github.com/FT-Labs/phyOS-iso/blob/images/pdwmc/pdwmc-4.png">
+<img src="https://github.com/FT-Labs/phyOS-iso/blob/images/pdwmc/pdwmc-5.png">
 
 ### <p align="center">PhyOS System Settings Application</p>
 <p align="center">Tweak your settings and customization, choose animations.</p>
-
-## <p align="center">Screenshots</p>
-<hr>
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-1.png">
-<img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-2.png">
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-3.png">
 <img src="https://github.com/FT-Labs/phyOS-dwm/blob/screenshots/screenshots/setting-4.png">
