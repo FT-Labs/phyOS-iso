@@ -19,6 +19,9 @@
 <p align="center">
 First LVM2 and LUKS2 supported arch based distribution. Automatic initcpio hooks to unlock crypted root partition.
 </p>
+
+### <p align="center"> Download ISO images under the <a href="https://github.com/FT-Labs/phyOS-iso/releases/">Releases</a> section.</p>
+
 <hr>
 <p align="center">PLEASE JOIN OUR DISCORD SERVER FOR GUIDES AND RECENT UPDATES.</p>
 
